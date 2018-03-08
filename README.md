@@ -9,5 +9,5 @@ git-hub
 ## Deployment
 
 ## Purpose
-
+ As mentioned above 
 ## How to contribute
