@@ -13,7 +13,8 @@ on any web server or even local file system.It is modified.
 ## Purpose
  As mentioned above 
 ## How to contribute
-
+Please fork this repository and then issue Pull
+request for review.
 ###Copyright
 
 2014 Git.Training.
