@@ -13,3 +13,7 @@ on any web server or even local file system.It is modified.
 ## Purpose
  As mentioned above 
 ## How to contribute
+
+###Copyright
+
+2014 Git.Training.
