@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for showing git 
-git-hub
+git-hub.Adding a line for rebasing example.
 
 ## Introduction
  This example is to show different parts of the git 
